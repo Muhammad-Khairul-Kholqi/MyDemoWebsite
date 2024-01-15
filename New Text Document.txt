@@ -1,3 +1,5 @@
+COPY LINK TO ACCESS MY WEBSITE 
+
 #New Personal Website:
 https://khrlkholqiportfoliooo.netlify.app
 
@@ -6,3 +8,5 @@ https://person1.netlify.app/
 https://personalwebkhrl.netlify.app/
 
 #Website School
+https://webskull.netlify.app/
+https://friendly-medovik-b9a883.netlify.app/
